@@ -1,0 +1,3 @@
+[submodule "FamilyTree"]
+	path = FamilyTree
+	url = git@github.com:HUIronMan/FamilyTree.git
